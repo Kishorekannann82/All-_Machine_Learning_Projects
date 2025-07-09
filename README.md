@@ -24,7 +24,7 @@ This repository contains various projects demonstrating applications of Machine 
 | **Email Spam Mine**            | Email spam detection using classification techniques. |
 | **Heart Disease**              | Predicting heart disease using ML models. |
 | **Liver Disease**              | Predicting liver disease from medical datasets. |
-
+| **Music Recommendation System**| Recommend the top 5 music relaed to your song |
 ---
 
 ## 📦 About
