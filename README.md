@@ -48,3 +48,8 @@ Each project contains:
 1. Clone the repository:
 ```bash
 git clone https://github.com/your-username/your-repository.git
+
+
+
+Caution:
+In this repositary some folder are made as softlink where i tried multiple times but it cannot be removed..But the subfolders are already avaiable if you enter the name of the folder in my repositary
